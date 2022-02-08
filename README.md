@@ -1,26 +1,21 @@
-# Quasar App (planet-index)
+# swAPI technical test
 
-A Quasar Framework app
+A table with pagination and search functionality for the swAPI 
 
-## Install the dependencies
+## Install Quasar the dependencies
 ```bash
+npm install -g @quasar/cli
 npm install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
-quasar dev
+npm run dev
 ```
 
 ### Lint the files
 ```bash
 npm run lint
 ```
-
-### Build the app for production
-```bash
-quasar build
-```
-
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
